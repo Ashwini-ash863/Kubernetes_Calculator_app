@@ -4,7 +4,7 @@ This is used to build and deploy a simple calculator web application using Docke
 
                                                        Steps to run
 
-1.Install prerequisites:
+1.Install prerequisites
 Node.js(node -v)
 Docker(docker --version)
 kind(kind version)
