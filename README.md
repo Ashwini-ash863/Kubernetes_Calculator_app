@@ -1,8 +1,8 @@
-                                            Hosting a Calculator Application in Kubernetes Using kind 
+                                     Hosting a Calculator Application in Kubernetes Using kind 
 
 This is used to build and deploy a simple calculator web application using Docker and host it on a local Kubernetes cluster using kind.
 
-                                                                Steps to run
+                                                       Steps to run
 
 1.Install prerequisites:
 Node.js(node -v)
